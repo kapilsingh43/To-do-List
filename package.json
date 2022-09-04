@@ -1,0 +1,27 @@
+{
+  "name": "todolist-v2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapil Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.4"
+  },
+  "devDependencies": {},
+  "description": "todolist",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilsingh43/To-do-List.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kapilsingh43/To-do-List/issues"
+  },
+  "homepage": "https://github.com/kapilsingh43/To-do-List#readme"
+}
